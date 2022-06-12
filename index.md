@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# The Digital Doll – Online Interactive Performance & Exhibition (A Full-Stack Project) - December 2020
 
-You can use the [editor on GitHub](https://github.com/OfficiallyLukeHemmings/DigitalDoll.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Introduction
+The Digital Doll was an interactive exhibition of performance art hosted on a website I was solely responsible for designing and creating over a 3 week period. I was enlisted by a Queen Mary University of London final year student to provide an accessible interactive platform for an assessed live performance. The website, which was deployed using Heroku, allowed for real-time voting which displayed the live sum of votes for each choice in the rounds while viewers experienced the results on Zoom.
 
-### Markdown
+This was a full-stack project powered by Node.js, Vue.js, Express.js, and Sockets.IO. The website was designed in an iterative fashion using Balsamiq, a wireframing tool, to create wireframes which were presented to my client and updated according to feedback.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The project was a success with the assignment being graded a high 2:1, with assignment feedback stating the website was excellently designed and served as an effective platform. It was a pleasure to undertake such an exhilarating opportunity with a creative origin, especially one where I held a lot of responsibility, as the performance was entirely reliant on the website's completion.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OfficiallyLukeHemmings/DigitalDoll.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## GitHub Link
+[DigitalDoll](https://github.com/OfficiallyLukeHemmings/DigitalDoll)
